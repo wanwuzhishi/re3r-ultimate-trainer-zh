@@ -1,0 +1,18 @@
+# 二进制与构建产物 —— 严禁上传（版权原因，见 README）
+*.dll
+*.zip
+*.bak
+dist/
+out/
+out2/
+original/
+upx*/
+*.exe
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
