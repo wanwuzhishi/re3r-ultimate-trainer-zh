@@ -6,6 +6,10 @@
 
 > **English**: This is a Simplified Chinese localization generator for Raz0r's Ultimate Trainer (RE3 Remake, REFramework plugin, v2.0.3). No binaries are distributed — run the build script against your own copy of the trainer to produce a localized DLL locally. [English quick start](#english-quick-start)
 
+> 项目介绍与安装说明：[万物之时博客 · RE3R 终极修改器汉化](https://blog.126330.xyz/posts/5a6f40cc/)  
+> 技术记录：[二进制汉化实践](https://blog.126330.xyz/posts/c0e6cee2/)  
+> 博客主页：<https://blog.126330.xyz>
+
 ---
 
 ## ⚠️ 版权声明（请先阅读）
